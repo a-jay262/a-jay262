@@ -16,11 +16,16 @@ Here are some ideas to get you started:
 -->
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=a-jay262&theme=onedark&no-frame=true&no-bg=false&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![trophy](https://github-profile-trophy.ryo-ma.vercel.app/?username=a-jay262)
 
-![trophy](https://github-profile-trophy-ahq.vercel.app/?username=a-jay262)
 
+
+<!--
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=a-jay262&theme=onedark&no-frame=true&no-bg=false&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy-ahq.vercel.app/?username=a-jay262)
 ![GitHub followers](https://img.shields.io/github/followers/a-jay262?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/a-jay262?style=for-the-badge)
+
+-->
