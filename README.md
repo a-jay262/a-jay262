@@ -73,14 +73,6 @@ I enjoy solving real-world problems, integrating systems, and delivering smooth 
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a-jay262&layout=compact&theme=radical)
-
----
-
-![Visitor Count](https://profile-counter.glitch.me/a-jay262/count.svg)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
