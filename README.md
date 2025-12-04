@@ -9,11 +9,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.ryo-ma.vercel.app/?username=a-jay262&theme=onedark&margin-w=15)
-
----
-
 ## 👩‍💻 About Me  
 I’m a **Software Developer** passionate about building mobile apps, full-stack solutions, and Microsoft Dynamics 365 Business Central extensions.  
 I enjoy solving real-world problems, integrating systems, and delivering smooth user experiences through clean and scalable code.
@@ -88,6 +83,11 @@ I enjoy solving real-world problems, integrating systems, and delivering smooth 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-jay262&layout=compact&theme=radical" height="160"/>
 </p>
+
+---
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.ryo-ma.vercel.app/?username=a-jay262&theme=onedark&margin-w=15)
 
 ---
 
