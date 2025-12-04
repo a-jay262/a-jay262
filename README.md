@@ -75,18 +75,20 @@ I enjoy solving real-world problems, integrating systems, and delivering smooth 
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=a-jay262&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=a-jay262&theme=radical" height="160"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-jay262&layout=compact&theme=radical" height="160"/>
+</p>-->
+
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=a-jay262&show_icons=true&theme=radical" height="160"/>
 </p>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=a-jay262&show_icons=true&theme=radical" height="160"/>
-
-<img src="https://streak-stats.demolab.com?user=a-jay262&theme=radical" height="160"/>
+<!--<img src="https://streak-stats.demolab.com?user=a-jay262&theme=radical" height="160"/>-->
 
 
 ---
